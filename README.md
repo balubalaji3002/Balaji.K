@@ -1,4 +1,4 @@
-
+![logo](https://github.com/balubalaji3002/Balaji.K/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Balaji.K</h1>
 <h3 align="center">A passionate Comuputer Science student and young developer.</h3>
