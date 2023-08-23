@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balubalaji3002" alt="balubalaji3002" /></a> </p>
 
-- 👨‍💻 All about me is available at [https://balubalaji3002.github.io/k.Balaji-portfolio/](https://balubalaji3002.github.io/k.Balaji-portfolio/)
+- 👨‍💻 All about me is available at https://balubalaji3002.github.io/Balaji_portfolio/
 
 - 📫 How to reach me **kullayibalaji@gmail.com**
 
